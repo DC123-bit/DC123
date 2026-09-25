@@ -4,4 +4,4 @@ Welcome to my GitHub Pages site!
 This repository hosts my personal website, built using GitHub Pages and Jekyll.
 
 You can view the live site here:  
-https://dc123-bit.github.io
+https://github.com/DC123-bit/dc123-bit.github.io
